@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Chukwuma Wisdom Anwaegbu</h1>
-<h3 align="center">A passionate software engineer from Nigeria</h3>
+<h3 align="center">software engineer</h3>
 
 <p align="left"> <a href="https://twitter.com/wisdomsglow" target="blank"><img src="https://img.shields.io/twitter/follow/wisdomsglow?logo=twitter&style=for-the-badge" alt="wisdomsglow" /></a> </p>
 
