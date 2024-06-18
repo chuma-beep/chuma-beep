@@ -1,3 +1,2 @@
 Welcome
-- software engineering student @ altschool | Computer Science undergraduate @ National Open University
-
+- software engineering student @ altschool | Computer Science undergraduate
