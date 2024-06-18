@@ -1,2 +1,2 @@
 Welcome
-- software engineering student @ altschool | Computer Science undergraduate
+- software engineering student @ altschool & Computer Science undergraduate
